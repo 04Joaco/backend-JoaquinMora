@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "Remera",
+    "description": "Nueva descripción",
+    "price": 1200,
+    "thumbnail": "imagen1.jpg",
+    "code": "AB12",
+    "stock": 50
+  }
+]
